@@ -3,7 +3,9 @@
 This is about me(lsyyyy).
 
 - 📫 How to reach me: send me message as a issues at this [repositories](https://github.com/lsyyyy11/lsyyyy11/issues).
+
           _If you would like to continue from the last chat, please provide the Issue ID_
+  
 - 😄 Pronouns: he/him 
 
 <!--
